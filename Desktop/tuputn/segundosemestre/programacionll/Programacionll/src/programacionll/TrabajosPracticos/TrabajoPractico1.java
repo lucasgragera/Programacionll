@@ -16,6 +16,7 @@ public class TrabajoPractico1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         //2)
         //a)
         //System.out.println("Hola Mundo");
